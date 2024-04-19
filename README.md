@@ -1,7 +1,7 @@
 ### Hey, I'm Mohammed Ammer! 👋
 
 👨‍💻 Senior Software Engineer at [@freenowtech](https://github.com/freenowtech/)  
-🇪🇬 From Giza, Egypt 🐪
+🇪🇬 From Giza, Egypt 🐪  
 🇩🇪 Living in Hamburg, Germany. 
 
 ### Find me elsewhere 🌎  
